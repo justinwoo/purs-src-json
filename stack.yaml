@@ -1,0 +1,11 @@
+resolver: lts-13.29
+
+packages:
+- .
+
+extra-deps:
+- happy-1.19.9
+- language-javascript-0.6.0.13
+- network-3.0.1.1
+- git: https://github.com/purescript/purescript.git
+  commit: c2c5f509ba3438b902f7774220b6eb3e73e8354d

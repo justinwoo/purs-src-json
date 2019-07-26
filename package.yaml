@@ -1,0 +1,34 @@
+name:                purs-src-json
+version:             0.1.0.0
+github:              "justinwoo/purs-src-json"
+license:             BSD3
+author:              "Justin Woo"
+maintainer:          "example@example.com"
+copyright:           "2019 Justin Woo"
+
+extra-source-files:
+- README.md
+
+description:         Please see the README on GitHub at <https://github.com/justinwoo/purs-src-json#readme>
+
+dependencies:
+- base >= 4.7 && < 5
+- purescript
+- text
+- aeson
+
+library:
+  source-dirs: src
+
+executables:
+  purs-src-json:
+    main:                Main.hs
+    source-dirs:         app
+    ghc-options:
+    - -Wall
+    - -threaded
+    - -rtsopts
+    - -with-rtsopts=-N
+    dependencies:
+    - purs-src-json
+    - process
