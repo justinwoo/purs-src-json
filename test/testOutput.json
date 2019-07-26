@@ -1,0 +1,16 @@
+{"tokValue":{"tag":"TokLowerName","contents":[[],"module"]},"tokAnn":{"leadingComments":[],"trailingComments":[{"tag":"Space","contents":1}]}}
+{"tokValue":{"tag":"TokUpperName","contents":[[],"Main"]},"tokAnn":{"leadingComments":[],"trailingComments":[{"tag":"Space","contents":1}]}}
+{"tokValue":{"tag":"TokLowerName","contents":[[],"where"]},"tokAnn":{"leadingComments":[],"trailingComments":[]}}
+{"tokValue":{"tag":"TokLayoutStart"},"tokAnn":{"leadingComments":[],"trailingComments":[]}}
+{"tokValue":{"tag":"TokLowerName","contents":[[],"import"]},"tokAnn":{"leadingComments":[{"tag":"Line","contents":"LF"},{"tag":"Line","contents":"LF"}],"trailingComments":[{"tag":"Space","contents":1}]}}
+{"tokValue":{"tag":"TokUpperName","contents":[[],"Prelude"]},"tokAnn":{"leadingComments":[],"trailingComments":[]}}
+{"tokValue":{"tag":"TokLayoutSep"},"tokAnn":{"leadingComments":[],"trailingComments":[]}}
+{"tokValue":{"tag":"TokLowerName","contents":[[],"main"]},"tokAnn":{"leadingComments":[{"tag":"Line","contents":"LF"},{"tag":"Line","contents":"LF"}],"trailingComments":[{"tag":"Space","contents":1}]}}
+{"tokValue":{"tag":"TokEquals"},"tokAnn":{"leadingComments":[],"trailingComments":[{"tag":"Space","contents":1}]}}
+{"tokValue":{"tag":"TokLowerName","contents":[[],"do"]},"tokAnn":{"leadingComments":[],"trailingComments":[]}}
+{"tokValue":{"tag":"TokLayoutStart"},"tokAnn":{"leadingComments":[],"trailingComments":[]}}
+{"tokValue":{"tag":"TokLowerName","contents":[[],"pure"]},"tokAnn":{"leadingComments":[{"tag":"Line","contents":"LF"},{"tag":"Space","contents":2}],"trailingComments":[{"tag":"Space","contents":1}]}}
+{"tokValue":{"tag":"TokLowerName","contents":[[],"unit"]},"tokAnn":{"leadingComments":[],"trailingComments":[]}}
+{"tokValue":{"tag":"TokLayoutEnd"},"tokAnn":{"leadingComments":[],"trailingComments":[]}}
+{"tokValue":{"tag":"TokLayoutEnd"},"tokAnn":{"leadingComments":[],"trailingComments":[]}}
+{"tokValue":{"tag":"TokEof"},"tokAnn":{"leadingComments":[{"tag":"Line","contents":"LF"}],"trailingComments":[]}}
